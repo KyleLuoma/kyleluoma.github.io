@@ -1,4 +1,4 @@
 # Kyle Luoma
-## USCD CSE PhD Student
+USCD CSE PhD Student
 
 
