@@ -5,6 +5,5 @@
 
 [ADALab](https://adalabucsd.github.io) |
 [LinkedIn Page](https://www.linkedin.com/in/kyle-luoma-9b43911b) |
-[KyleLuoma.com](https://kyleluoma.com) |
 [Army Cyber Institute](https://cyber.army.mil/)
 
