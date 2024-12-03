@@ -1,6 +1,4 @@
-remote_theme: pages-themes/leap-day@v0.2.0
-title: Kyle Luoma
+theme: jekyll-theme-minimaltitle: Kyle Luoma
 description: UCSD CSE PhD Student
 
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
